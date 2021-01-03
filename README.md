@@ -1,5 +1,11 @@
 # search-films
+OMDb API movie search and bookmarking application.
+Bootstrap, Modal and custom css used
 
+# Json server 
+json-server --watch db.json
+if you need change port;
+json-server --watch db.json --port ####
 ## Project setup
 ```
 npm install
